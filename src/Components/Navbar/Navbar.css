@@ -1,0 +1,35 @@
+
+.menu{
+    /* border: 10px solid red; */
+    text-align: center;
+    /* border: none; */
+    margin-right: 35px;
+    border-radius: 10px;
+    padding: 0px 25px;
+    border: 1px solid;
+    color: white;
+  }
+
+
+.menu:hover{
+    background-color: #dddddd;
+}
+
+
+.menu:focus{
+    background: rgb(255, 255, 255);
+    color: aliceblue;
+}
+
+.btn-login {
+    border: 2px solid #727272;
+    background-color: #797979;
+    border-radius: 20px;
+    color: #fff;
+    padding: 0px 25px;
+    transition: .3s;
+  }
+  .btn-login:hover {
+    box-shadow: 8px 8px #cacaca;
+    transition: .3s;
+  }
